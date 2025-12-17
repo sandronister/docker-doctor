@@ -4,7 +4,7 @@
 If you discover a security vulnerability, please do NOT open a public issue.
 
 Instead, report it by emailing:
-- maintainer: <SEU_EMAIL_AQUI>
+- maintainer: sandronister@gmail.com
 
 We will acknowledge receipt within a reasonable timeframe and work to address the issue.
 
