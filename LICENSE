@@ -1,0 +1,22 @@
+
+---
+
+# 📄 `CONTRIBUTING.md`
+
+```md
+# Contributing to tfgen
+
+Thank you for your interest in contributing to **tfgen**.
+
+This project aims to be simple, explicit, and easy to extend. Contributions that align with these principles are highly appreciated.
+
+---
+
+## How to Contribute
+
+### 1. Fork the repository
+Create a fork and clone it locally.
+
+### 2. Create a feature branch
+```bash
+git checkout -b feature/my-feature
